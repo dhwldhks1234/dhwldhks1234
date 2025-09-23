@@ -41,7 +41,7 @@
 ## 사용하는 언어
  JavaScript   
  css   
- html   
+ <img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white"/>
 ## 스킬들
  mySql   
  node.js   
