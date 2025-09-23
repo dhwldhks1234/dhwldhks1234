@@ -35,7 +35,7 @@
 >> - Language : html,css
 >> - Skill : vscode
 >> 
-> 로그인 사이트 파일 바로가기 <a href=></a>
+>
 # 
 
 ## 사용하는 언어
