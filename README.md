@@ -39,4 +39,11 @@
 # 
 
 # 사용하는 언어
-> https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+> JavaScript
+> css
+> html
+# 스킬들
+> mySql
+> node.js
+> vscode
+#
