@@ -32,8 +32,8 @@
 >> - Skill : Express.js 
 >
 >> Front-end
->> - Language : JavaScript
->> - Skill : jQuery
+>> - Language : html,css
+>> - Skill : vscode
 >>
 >
 # 
