@@ -21,16 +21,15 @@
 큰 프로젝트는 아니지만, 백엔드 개발을 더욱 깊게 이해하기 위해
 로그인 사이트를 만들어보았습니다!
 
-## 1. My Little site
+## My Little site
 
 > 로그인 사이트 구현
 >
 > - 개발기간 : 2025.06.13 ~ 2025.06.17
-> - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
 >
 >> Back-end
->> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
+>> - Language : JavaScript(Node.js) 
+>> - Skill : Express.js
 >> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
 >
