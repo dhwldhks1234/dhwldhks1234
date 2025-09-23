@@ -44,4 +44,4 @@
 > <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 > <img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white"/> 
 #
-github-readme-stats.vercel.app/api/top-langs/?username={dhwldhks1234}&langs_count=4
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<username>&show_icons=true&locale=en&layout=compact" alt="<username>" /></p>
