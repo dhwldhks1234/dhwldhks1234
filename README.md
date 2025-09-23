@@ -38,12 +38,12 @@
 >
 # 
 
-# 사용하는 언어
- JavaScript 
- css 
- html 
-# 스킬들
- mySql 
- node.js 
- vscode 
+## 사용하는 언어
+# JavaScript 
+# css 
+# html 
+## 스킬들
+# mySql 
+# node.js 
+# vscode 
 #
