@@ -29,12 +29,10 @@
 >
 >> Back-end
 >> - Language : JavaScript(Node.js) 
->> - Skill : Express.js
->> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+>> - Skill : Express.js 
 >
 >> Front-end
->> - Language : javascript
->> - Skill : React.js
+>> - Language : JavaScript
+>> - Skill : jQuery
 >>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+>
