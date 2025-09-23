@@ -36,7 +36,7 @@
 >> - Skill : vscode
 >>
 >
->> 프로젝트 파일은 htt
+>> 프로젝트 파일을 저장한 곳 : https://github.com/dhwldhks1234/my-site.git
 # 
 
 ## 사용하는 언어
